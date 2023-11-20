@@ -5,3 +5,6 @@ SQL Project to analyze data from an online music store
 # Tech Stack
 * PostgreSQL
 * Pgadmin4
+
+# Data Schema for Music Store Data
+
